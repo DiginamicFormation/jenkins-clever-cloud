@@ -3,7 +3,8 @@
     "container": "TOMCAT8",
     "war": [
       {
-        "file": "jenkins.war"
+        "file": "jenkins.war",
+        "context": "/"
       }
     ]
   }
